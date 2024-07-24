@@ -8,5 +8,5 @@ Frameworks that i use:
 - Laravel
   
 My favorite subjects:
-- I.A.
+- A.I.
 - Graphs
